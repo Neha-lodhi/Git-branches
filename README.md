@@ -3,7 +3,7 @@
 
 ---
 
-###                                                                      💡 About Me
+                                                                   <h4 align="center"> 💡 About Me  </h4>
 
 🌟 I’m a passionate **DevOps Engineer** focused on automating cloud infrastructure and building efficient CI/CD pipelines.  
 In DevOps, I utilize tools like **Git**, **Docker**, **Kubernetes**, along with cloud platforms such as **AWS**, and **Azure** to streamline development processes and enhance deployment efficiency and also to bring speed, scalability, and reliability to software delivery.
