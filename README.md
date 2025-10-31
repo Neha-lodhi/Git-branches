@@ -1,12 +1,13 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#ff6f61;">Neha Lodhi</span></h1>
+<h1 align="center"> Hi, I'm <span style="color:#ff6f61;">Neha Lodhi</span></h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud | Automation | CI/CD</h3>
 
 ---
 
-### 💡 About Me
+###                                                                      💡 About Me
 
 🌟 I’m a passionate **DevOps Engineer** focused on automating cloud infrastructure and building efficient CI/CD pipelines.  
-I love working on **Kubernetes**, **Terraform**, and **Cloud Automation** to bring speed, scalability, and reliability to software delivery.
+In DevOps, I utilize tools like **Git**, **Docker**, **Kubernetes**, along with cloud platforms such as **AWA**, and **Azure** to steamline development processes and enhance deployment efficiency and also to bring speed, scalability, and reliability to software delivery.
+
 
 ---
 
